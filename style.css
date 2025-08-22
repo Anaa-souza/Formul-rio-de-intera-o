@@ -1,0 +1,9 @@
+body{
+    background-image: linear-gradient(to right, rgba(39, 237, 39, 0.813), rgb(181, 255, 210));
+}
+h1{
+    color:red
+}
+p{
+    text-align: justify;
+}
