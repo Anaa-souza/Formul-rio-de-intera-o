@@ -2,7 +2,7 @@
 
 Este projeto apresenta uma página HTML simples com um formulário de coleta de informações pessoais e preferências de trabalho. Ele foi desenvolvido para praticar a criação de formulários e organização de elementos com HTML5 e CSS3.
 
-## 📂 Estrutura do Projeto
+
 
 
 ## 🖥️ Funcionalidades do Formulário
@@ -65,3 +65,4 @@ Se quiser trocar ideias ou colaborar:
 🌐 LinkedIn
 
 🐙 GitHub
+
