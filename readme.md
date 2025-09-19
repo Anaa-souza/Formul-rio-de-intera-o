@@ -62,7 +62,8 @@ Cores e tipografia para melhor experiência do usuário.
 
 Se quiser trocar ideias ou colaborar:
 
-🌐 LinkedIn
+<i class="fa-brands fa-linkedin"></i>
 
-🐙 GitHub
+<i class="fa-brands fa-github"></i>
+
 
