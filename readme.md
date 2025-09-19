@@ -58,12 +58,6 @@ Cores e tipografia para melhor experiência do usuário.
 👩‍💻 Projeto desenvolvido para fins de aprendizado e prática em HTML e CSS.
 ⭐ Sinta-se à vontade para usar como base, contribuir e sugerir melhorias!
 
-## 📬 Contato
 
-Se quiser trocar ideias ou colaborar:
-
-<i class="fa-brands fa-linkedin"></i>
-
-<i class="fa-brands fa-github"></i>
 
 
